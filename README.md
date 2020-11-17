@@ -3,6 +3,6 @@ Stereo Ambient Sampling System
 
 A DIY binaural recording microphone system for true-stereo recording
 
-Adapted from the original descriptions and US patent and some excellent DIY description by Vicky Powys and others.
+Adapted from the original descriptions and US patent and the excellent DIY descriptions by Vicky Powys and others.
 
 
