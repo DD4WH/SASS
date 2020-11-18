@@ -1,7 +1,7 @@
 # DIY - SASS System
 Stereo Ambient Sampling System
 
-A DIY binaural recording microphone system for true-stereo recording
+A DIY binaural recording microphone system for true-stereo recording with a total cost of under 150,- €.
 
 Adapted from the original descriptions and US patent and the excellent DIY descriptions by Vicky Powys and others.
 
