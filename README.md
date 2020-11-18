@@ -5,6 +5,8 @@ A DIY binaural recording microphone system for true-stereo recording
 
 Adapted from the original descriptions and US patent and the excellent DIY descriptions by Vicky Powys and others.
 
+Have a look at the [WIKI](https://github.com/DD4WH/SASS/wiki) for further details on assembly and parts and a ressource list with literature and links. 
+
 ![](https://user-images.githubusercontent.com/14326464/99524616-f8bf8180-2998-11eb-9e6e-a43e6dc737b0.png)
 
 
